@@ -150,6 +150,9 @@ input[type="search"] {
   gap: 1rem;
   align-items: center;
 }
+#sitename{
+  gap: 6px;
+}
 
 #body {
   grid-template-columns: 3fr 1fr;
